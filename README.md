@@ -1,4 +1,4 @@
-**Dynamisk web**
+**DYNAMISK WEB**
 
 # Lav et Pokedex eller et Star Wars 'leksikon'
 
