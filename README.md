@@ -1,9 +1,9 @@
 **DYNAMISK WEB**
 
-# Lav et Pokedex eller et Star Wars 'leksikon'
+# Lav et Pokedex
 
 ### **Mål**
-Målet med opgaven er at træne listevisning og detaljevisning ved brug af url-parametre(query-strings).
+Målet med opgaven er at træne listevisning og detaljevisning ved brug af url-parametre(query-strings) samt at opbygge dit brugerinterface med komponenter.
 
 ### **Materialer**
 Layoutet skal ligne den udleverede Figma fil. Den finder du i 'assets' mappen.
@@ -56,7 +56,7 @@ Tilføj funktionalitet på liste-visningen som udsætter indlæsningen af billed
 Tilføj et søgefelt til index siden, så man ikke skal bladre hen til sin favorit-pokemon. Det kan være du skal bruge et url-parameter til at få fat i søgeresultatet..?
 
 
-### **Pokemon api - ekstraopgave 3 - infinite scroll**
+### **Pokemon api - ekstraopgave 4 - infinite scroll**
 
 Tilføj funktionalitet som loader nye Pokemon når du nærmer dig slutningen af de allerede indlæste Pokemon. Følg guiden på MitRTS.
 
